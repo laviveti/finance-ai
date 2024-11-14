@@ -1,7 +1,11 @@
 import React from "react";
 
 const TransactionPage = () => {
-  return <div>TransactionPage</div>;
+  return (
+    <div>
+      <div>TransactionPage</div>
+    </div>
+  );
 };
 
 export default TransactionPage;
