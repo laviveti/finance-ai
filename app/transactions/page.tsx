@@ -1,11 +1,11 @@
 import React from "react";
 
-const TransactionPage = () => {
+const TransactionsPage = () => {
   return (
     <div>
-      <div>TransactionPage</div>
+      <div>TransactionsPage</div>
     </div>
   );
 };
 
-export default TransactionPage;
+export default TransactionsPage;

@@ -1,7 +1,7 @@
 import React from "react";
 
-const TransactionPage = () => {
-  return <div>TransactionPage</div>;
+const SubscriptionPage = () => {
+  return <div>SubscriptionPage</div>;
 };
 
-export default TransactionPage;
+export default SubscriptionPage;
